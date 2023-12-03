@@ -1,4 +1,4 @@
-// Create a web server
+// Create web server
 var http = require('http'),
     fs = require('fs'),
     qs = require('querystring');
